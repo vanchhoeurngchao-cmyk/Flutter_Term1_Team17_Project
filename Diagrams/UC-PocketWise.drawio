@@ -1,0 +1,111 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="RxrLBNyQyMXahcy3JNm3">
+    <mxGraphModel dx="1278" dy="720" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nzRJYkMAsD7EN91Dgx_S-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelPerimeter=1;" value="User" vertex="1">
+          <mxGeometry height="60" width="30" y="480" as="geometry" />
+        </mxCell>
+        <mxCell id="nzRJYkMAsD7EN91Dgx_S-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="760" width="640" x="120" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nzRJYkMAsD7EN91Dgx_S-10" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Manage Income" vertex="1">
+          <mxGeometry height="55" width="210" x="165" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="nzRJYkMAsD7EN91Dgx_S-23" edge="1" parent="1" source="nzRJYkMAsD7EN91Dgx_S-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="nzRJYkMAsD7EN91Dgx_S-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nzRJYkMAsD7EN91Dgx_S-30" connectable="0" parent="nzRJYkMAsD7EN91Dgx_S-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="include" vertex="1">
+          <mxGeometry relative="1" x="0.0999" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nzRJYkMAsD7EN91Dgx_S-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Create Budget Plan" vertex="1">
+          <mxGeometry height="55" width="210" x="165" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="nzRJYkMAsD7EN91Dgx_S-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Record Actual Expenses" vertex="1">
+          <mxGeometry height="55" width="220" x="160" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="nzRJYkMAsD7EN91Dgx_S-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Manage Planned Expenses" vertex="1">
+          <mxGeometry height="55" width="230" x="155" y="338" as="geometry" />
+        </mxCell>
+        <mxCell id="nzRJYkMAsD7EN91Dgx_S-21" edge="1" parent="1" source="nzRJYkMAsD7EN91Dgx_S-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="nzRJYkMAsD7EN91Dgx_S-19">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="352.1" y="547.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nzRJYkMAsD7EN91Dgx_S-31" connectable="0" parent="nzRJYkMAsD7EN91Dgx_S-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="include" vertex="1">
+          <mxGeometry relative="1" x="0.0648" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nzRJYkMAsD7EN91Dgx_S-22" edge="1" parent="1" source="nzRJYkMAsD7EN91Dgx_S-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;defaultLabelBackgroundColor=page;" target="nzRJYkMAsD7EN91Dgx_S-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="352.1" y="667.5" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nzRJYkMAsD7EN91Dgx_S-32" connectable="0" parent="nzRJYkMAsD7EN91Dgx_S-22" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="include" vertex="1">
+          <mxGeometry relative="1" x="0.1465" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nzRJYkMAsD7EN91Dgx_S-16" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="View Financial Summary" vertex="1">
+          <mxGeometry height="55" width="230" x="155" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="nzRJYkMAsD7EN91Dgx_S-17" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Edit or Delete Records" vertex="1">
+          <mxGeometry height="55" width="240" x="145" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="nzRJYkMAsD7EN91Dgx_S-18" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Select Planning Period&#xa;(Weekly / 2 Weeks / Monthly)" vertex="1">
+          <mxGeometry height="65" width="260" x="460" y="85" as="geometry" />
+        </mxCell>
+        <mxCell id="nzRJYkMAsD7EN91Dgx_S-19" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Compare Planned and&#xa;Actual Spending" vertex="1">
+          <mxGeometry height="65" width="220" x="470" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="nzRJYkMAsD7EN91Dgx_S-20" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="View Remaining Money and&#xa;Estimated Savings" vertex="1">
+          <mxGeometry height="65" width="250" x="470" y="635" as="geometry" />
+        </mxCell>
+        <mxCell id="nzRJYkMAsD7EN91Dgx_S-24" edge="1" parent="1" source="nzRJYkMAsD7EN91Dgx_S-1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nzRJYkMAsD7EN91Dgx_S-11" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="500" as="sourcePoint" />
+            <mxPoint x="440" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nzRJYkMAsD7EN91Dgx_S-25" edge="1" parent="1" source="nzRJYkMAsD7EN91Dgx_S-1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nzRJYkMAsD7EN91Dgx_S-10" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="75" y="520" as="sourcePoint" />
+            <mxPoint x="175" y="128" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nzRJYkMAsD7EN91Dgx_S-26" edge="1" parent="1" source="nzRJYkMAsD7EN91Dgx_S-1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nzRJYkMAsD7EN91Dgx_S-15" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="75" y="520" as="sourcePoint" />
+            <mxPoint x="175" y="253" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nzRJYkMAsD7EN91Dgx_S-27" edge="1" parent="1" source="nzRJYkMAsD7EN91Dgx_S-1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nzRJYkMAsD7EN91Dgx_S-12" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="75" y="520" as="sourcePoint" />
+            <mxPoint x="165" y="376" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nzRJYkMAsD7EN91Dgx_S-28" edge="1" parent="1" source="nzRJYkMAsD7EN91Dgx_S-1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nzRJYkMAsD7EN91Dgx_S-16" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="75" y="520" as="sourcePoint" />
+            <mxPoint x="170" y="498" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nzRJYkMAsD7EN91Dgx_S-29" edge="1" parent="1" source="nzRJYkMAsD7EN91Dgx_S-1" style="endArrow=none;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nzRJYkMAsD7EN91Dgx_S-17" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="75" y="520" as="sourcePoint" />
+            <mxPoint x="165" y="617" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
